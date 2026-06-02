@@ -38,7 +38,7 @@ The dashboard helps HR managers identify workforce trends, monitor employee deve
 - Interactive Dashboard Design
 - Business Intelligence Reporting
 
-<img width="1139" height="513" alt="1769577867858" src="https://github.com/user-attachments/assets/2931e90f-3821-4242-b3dc-32803a0cda43" />
-<img width="1139" height="513" alt="1769577867858 (1)" src="https://github.com/user-attachments/assets/fbe214c4-506b-467e-b155-0e5677bfe85c" />
-<img width="1113" height="512" alt="1769577867914" src="https://github.com/user-attachments/assets/49276fa9-11c5-455c-9845-ca009f3ab0b2" />
+<img width="1113" height="512" alt="1769577867914" src="https://github.com/user-attachments/assets/9caf8f02-58d7-4778-82b9-45905447eb00" />
+<img width="1139" height="513" alt="1769577867858 (1)" src="https://github.com/user-attachments/assets/2e77df0e-5fe3-49a9-aec0-230d5042a397" />
+<img width="1118" height="503" alt="1769577867858 ddd" src="https://github.com/user-attachments/assets/513db620-a528-43fe-97d9-c2e0b9afda5a" />
 
